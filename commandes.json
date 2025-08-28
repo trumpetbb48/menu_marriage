@@ -1,0 +1,24 @@
+[
+    {
+        "entree": "Salade C\u00e9sar",
+        "plat": "Riz noir",
+        "viande": null,
+        "accompagnement": [],
+        "boisson": null,
+        "vin": null,
+        "table": "9"
+    },
+    {
+        "entree": "Salade C\u00e9sar",
+        "plat": "Riz national",
+        "viande": "Poulet",
+        "accompagnement": [
+            "Banane pes\u00e9e",
+            "Pikliz",
+            "Salade russe"
+        ],
+        "boisson": "Coca-Cola",
+        "vin": "Vin blanc",
+        "table": "2"
+    }
+]
